@@ -1,0 +1,187 @@
+ /* #example { 
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin-top: 100px; 
+    padding: 20px;
+}
+ #second { 
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin-top: 100px;
+    padding-left: 150px;
+ }  */
+
+/* #parent {
+display: inline-block;
+background-color: red;
+padding: 10px;
+
+}
+#child1 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    padding: 100px;
+  
+}
+#child2 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    padding: 200px;
+    margin-top: 50px;
+    
+} */
+
+/* #parent {
+background-color: red;
+width: 300px;
+height: 300px;
+position: absolute;
+}
+#child1 {
+background-color: blue;
+height: 100px;
+width: 100px;
+position: absolute ;
+right:0;
+}
+#child2{
+background-color: green;
+height: 100px;
+width: 100px;
+}
+#child3{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left:0;
+    bottom:0;
+    }   
+#child4{
+    background-color: purple;    
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 0px;
+    }    
+    #child5 {
+    background-color:white;    
+    height: 100px;
+    width: 100px;    
+    position: absolute;
+    left:100px;
+    } */
+
+    /* #parent {
+        background-color: blue;
+        height: 300px;
+        width: 300px;
+        position: relative;
+    }
+    .child {
+        background-color: red;        }
+    #child1 {
+      
+      height: 300px;
+      width: 10px;
+      position: absolute;
+      left :30px; 
+    }
+    #child2 {
+    height :10px;
+    width: 300px;
+    position: absolute;
+    top : 30px;
+        
+    } */
+
+    /* #container {
+        background-color: mediumslateblue;
+        height: 200px;
+        width: 400px;
+        position: absolute;
+    }
+    #money {
+        color: black;
+        position: absolute;
+        left:10px;
+
+    }
+    #time {
+        color: black;
+        position: absolute;
+        right: 10px;
+        bottom:10px;
+    }
+    .graph {
+        background-color: gainsboro;
+        width: 30px;
+        position: absolute;
+        bottom: 5px;
+    }
+    #graph1 {
+        height: 40px;
+        left: 20px;
+    }
+    #graph2 {
+        height: 100px;
+        left: 80px;
+    }
+    #graph3 {
+        height: 160px;
+        left: 140px;
+    }
+    #graph4 {
+        height: 140px;
+        left: 200px;
+    }
+    #graph5 {
+        height: 120px;
+        left: 260px;
+    }
+    #graph6 {
+        height: 60px;
+        left: 320px;
+    } */
+
+    #container {
+        background-color: rgb(139, 18, 18);
+        height: 400px;
+        width: 400px;
+        border-radius: 5px;
+        position: absolute;
+    }
+    #box-white {
+        background-color: white;
+        width: 200px;
+        height: 300px;
+        position: absolute;
+        left: 100px;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+
+    }
+    #box-grey1{
+        background-color: rgb(163, 161, 161);
+        height: 100px;
+        width: 100px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        
+    }
+    #box-grey2{
+        background-color: rgb(163, 161, 161);
+        height: 100px;
+        width: 100px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        position: absolute;
+        right: 0;
+        top:0;
+        
+    }

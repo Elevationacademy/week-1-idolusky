@@ -1,0 +1,22 @@
+body {
+    color: #ddd;
+}
+nav {
+   color:rgb(51, 51, 51);
+}
+.hero-image {
+    width: 100%;
+}
+li:first-child {
+background-color: green;
+}
+#container {
+    background-color:grey;
+    display: inline-block;
+    box-shadow:10px 10px 20px black;
+    border:
+    
+}
+.prompt {
+    color: black;
+}
